@@ -1,0 +1,382 @@
+TCustomNavigationBar
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist CustomNavigationBar/CustomNavigationBar-Info.plist
+cProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar normal i386
+cGenerateDSYMFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar
+cCopyStringsFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/InfoPlist.strings CustomNavigationBar/en.lproj/InfoPlist.strings
+cCpResource CustomNavigationBar/Default.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png
+cCpResource CustomNavigationBar/Default@2x.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png
+cCpResource CustomNavigationBar/Default-568h@2x.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png
+cCompileXIB /iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib
+cTouch /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/CustomNavigationBar-Prefix.pch
+c00000000510A3F1A0000000000000155
+t1359626010
+s341
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m
+c00000000510A3F1A000000000000090B
+t1359626010
+s2315
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m
+c00000000510A3F590000000000000238
+t1359626073
+s568
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m
+c00000000510A3F1A00000000000001F5
+t1359626010
+s501
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/InfoPlist.strings
+c00000000510A3F19000000000000002D
+t1359626009
+s45
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib
+c00000000510A3F1A0000000000001788
+t1359626010
+s6024
+
+N/iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m
+c00000000510A3F190000000000000154
+t1359626009
+s340
+
+N/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/CustomNavigationBar.LinkFileList
+c00000000510A3FFC0000000000000252
+t1359626236
+s594
+
+N/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/PkgInfo
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/PIViewController.nib
+t2
+s0
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000505A928E0000000000000110
+t1348113038
+s272
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505AE8100000000000228FD0
+t1348134928
+s2265040
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505AE81100000000003DCEF0
+t1348134929
+s4050672
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000505AE81100000000000015F7
+t1348134929
+s5623
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000505AE8150000000000000E8D
+t1348134933
+s3725
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505AE8170000000000AB3D60
+t1348134935
+s11222368
+
+N/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000505AE8230000000000001B54
+t1348134947
+s6996
+
+N/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-fzrvqjmolnlctoagovsmppnufquj/CustomNavigationBar-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth
+t2
+s0
+
+NCustomNavigationBar/CustomNavigationBar-Info.plist
+c00000000510A3F19000000000000048A
+t1359626009
+s1162
+
+CBuild AST from /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m
+r0
+
+CBuild AST from /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m
+r0
+
+CBuild AST from /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m
+r0
+
+CBuild AST from /iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc347bc7c77bab641^baf6397d77bab641^---0#1#0#--18"Check dependencies36"A5B50B1D-3F6A-4395-AFC9-3FD9BCB564D3-
+
+CCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381319045.176753
+e381319045.426364
+r1
+xCompileC
+xbuild/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o
+x/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.mf67c2d8577bab641^31266d8577bab641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m0000000000000000^3750"CompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o CustomNavigationBar/PIAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/CustomNavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-generated-files.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-own-target-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-all-target-headers.hmap -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-project-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources/i386 -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.d --serialize-diagnostics /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.dia -c /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIAppDelegate.m -o /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIAppDelegate.o36"C879B0FC-C3E9-47BC-AEAC-64FDFE5D7244-
+
+CCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381319045.176888
+e381319045.440352
+r1
+xCompileC
+xbuild/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o
+x/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m:11:1: warning: autosynthesized property 'delegate' will use synthesized instance variable '_delegate', not existing instance variable 'delegate' [-Wobjc-autosynthesis-property-ivar-name-match]
+o@implementation PICustomNavigationBar
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:51:60: note: property declared here
+o@property (nonatomic, retain) id<ActNavigationBarDelegate> delegate;
+o                                                           ^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:46:34: note: ivar is declared here
+o    id<ActNavigationBarDelegate> delegate;
+o                                 ^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m:11:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation PICustomNavigationBar
+o                ^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:53:1: note: method definition for 'initWithFrame:forState:forTitle:forTitleColor:' not found
+o- (id)initWithFrame:(CGRect)frame forState:(NavigationBarButtonState)state forTitle:(NSString *)titleStr forTitleColor:(UIColor *)color;
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:54:1: note: method definition for 'setNotificationButtonOrigin:' not found
+o- (void)setNotificationButtonOrigin:(CGPoint)point;
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:55:1: note: method definition for 'setNotificationButtonText:' not found
+o- (void)setNotificationButtonText:(NSString *)text;
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:56:1: note: method definition for 'hideNotificationButton:' not found
+o- (void)hideNotificationButton:(BOOL)value;
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:58:1: note: method definition for 'setUserInteractionForLeftNavigationButton:' not found
+o- (void)setUserInteractionForLeftNavigationButton:(BOOL)value;
+o^
+o/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:59:1: note: method definition for 'setUserInteractionForRightNavigationButton:' not found
+o- (void)setUserInteractionForRightNavigationButton:(BOOL)value;
+o^
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m9da02d8577bab641^aab9708577bab641^-2336"/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m:11:1: warning: autosynthesized property 'delegate' will use synthesized instance variable '_delegate', not existing instance variable 'delegate' [-Wobjc-autosynthesis-property-ivar-name-match]@implementation PICustomNavigationBar^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:51:60: note: property declared here@property (nonatomic, retain) id<ActNavigationBarDelegate> delegate;                                                           ^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:46:34: note: ivar is declared here    id<ActNavigationBarDelegate> delegate;                                 ^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m:11:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation PICustomNavigationBar                ^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:53:1: note: method definition for 'initWithFrame:forState:forTitle:forTitleColor:' not found- (id)initWithFrame:(CGRect)frame forState:(NavigationBarButtonState)state forTitle:(NSString *)titleStr forTitleColor:(UIColor *)color;^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:54:1: note: method definition for 'setNotificationButtonOrigin:' not found- (void)setNotificationButtonOrigin:(CGPoint)point;^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:55:1: note: method definition for 'setNotificationButtonText:' not found- (void)setNotificationButtonText:(NSString *)text;^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:56:1: note: method definition for 'hideNotificationButton:' not found- (void)hideNotificationButton:(BOOL)value;^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:58:1: note: method definition for 'setUserInteractionForLeftNavigationButton:' not found- (void)setUserInteractionForLeftNavigationButton:(BOOL)value;^/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h:59:1: note: method definition for 'setUserInteractionForRightNavigationButton:' not found- (void)setUserInteractionForRightNavigationButton:(BOOL)value;^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@129"Autosynthesized property 'delegate' will use synthesized instance variable '_delegate', not existing instance variable 'delegate'-381319045#18446744073709551615#0#2(2@22"Property declared here-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^50#59#50#59#1248#0#14"Semantic Issue--2@21"Ivar is declared here-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^45#33#45#33#1106#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m0000000000000000^10#0#10#0#181#0#14"Semantic Issue--2@25"Incomplete implementation-381319045#18446744073709551615#0#6(2@80"Method definition for 'initWithFrame:forState:forTitle:forTitleColor:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^52#0#52#0#1259#0#14"Semantic Issue--2@62"Method definition for 'setNotificationButtonOrigin:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^53#0#53#0#1396#0#14"Semantic Issue--2@60"Method definition for 'setNotificationButtonText:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^54#0#54#0#1448#0#14"Semantic Issue--2@57"Method definition for 'hideNotificationButton:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^55#0#55#0#1500#0#14"Semantic Issue--2@76"Method definition for 'setUserInteractionForLeftNavigationButton:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^57#0#57#0#1545#0#14"Semantic Issue--2@77"Method definition for 'setUserInteractionForRightNavigationButton:' not found-381319045#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.h0000000000000000^58#0#58#0#1608#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m0000000000000000^10#16#10#16#197#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m0000000000000000^3798"CompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o CustomNavigationBar/PICustomNavigationBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/CustomNavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-generated-files.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-own-target-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-all-target-headers.hmap -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-project-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources/i386 -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.d --serialize-diagnostics /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.dia -c /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PICustomNavigationBar.m -o /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PICustomNavigationBar.o36"4E2B9063-240B-4DAF-AD1B-B73D98F570FF-
+
+CCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381319045.176759
+e381319045.425375
+r1
+xCompileC
+xbuild/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o
+x/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.med9d2d8577bab641^3fe56c8577bab641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m0000000000000000^3768"CompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o CustomNavigationBar/PIViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/CustomNavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-generated-files.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-own-target-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-all-target-headers.hmap -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-project-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources/i386 -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.d --serialize-diagnostics /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.dia -c /iPhoneApps/CustomNavigationBar/CustomNavigationBar/PIViewController.m -o /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/PIViewController.o36"2F22DB15-8969-42EB-8821-C05D963D5019-
+
+CCompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o /iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381319045.176219
+e381319045.347624
+r1
+xCompileC
+xbuild/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o
+x/iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m575b2d8577bab641^f4fd588577bab641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m0000000000000000^3696"CompileC build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o CustomNavigationBar/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/CustomNavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-generated-files.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-own-target-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-all-target-headers.hmap -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-project-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources/i386 -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -include /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch -MMD -MT dependencies -MF /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.d --serialize-diagnostics /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.dia -c /iPhoneApps/CustomNavigationBar/CustomNavigationBar/main.m -o /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/main.o36"C9767B03-C847-457C-B919-F40C174A235E-
+
+CCompileXIB /iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib
+s381319047.297981
+e381319047.426136
+r1
+xCompileXIB
+x/iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xibba684c8777bab641^d4276d8777bab641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib0000000000000000^915"CompileXIB CustomNavigationBar/en.lproj/PIViewController.xib    cd /iPhoneApps/CustomNavigationBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /software/Xcode.app/Contents/Developer/usr/bin/..    /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/PIViewController.nib /iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/PIViewController.xib --sdk /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"E2EEB2F8-FD59-430C-AC71-12FBFEDAF83A-
+
+CCopyStringsFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/InfoPlist.strings CustomNavigationBar/en.lproj/InfoPlist.strings
+s381319047.236993
+e381319047.275110
+r1
+xCopyStringsFile
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/InfoPlist.strings
+xCustomNavigationBar/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy CustomNavigationBar/en.lproj/InfoPlist.stringsa3ce3c8777bab641^616f468777bab641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/en.lproj/InfoPlist.strings0000000000000000^601"CopyStringsFile build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj/InfoPlist.strings CustomNavigationBar/en.lproj/InfoPlist.strings    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/en.lproj -- CustomNavigationBar/en.lproj/InfoPlist.strings36"53EC5D12-C468-4247-8D67-22FE2EA286D1-
+
+CCpResource CustomNavigationBar/Default-568h@2x.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png
+s381319047.282312
+e381319047.296375
+r1
+xCpResource
+xCustomNavigationBar/Default-568h@2x.png
+xbuild/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png6c5b488777bab641^48e04b8777bab641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png000000000080d041^623"CpResource "CustomNavigationBar/Default-568h@2x.png" "build/Debug-iphonesimulator/CustomNavigationBar.app/Default-568h@2x.png"    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default-568h@2x.png" /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app36"601DD087-B120-4BE7-A7D7-C61155B5E275-
+
+CCpResource CustomNavigationBar/Default.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png
+s381319047.237000
+e381319047.275654
+r1
+xCpResource
+xCustomNavigationBar/Default.png
+xbuild/Debug-iphonesimulator/CustomNavigationBar.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png3acb3c8777bab641^bc90468777bab641^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png000000000080d041^593"CpResource CustomNavigationBar/Default.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default.png    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default.png /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app36"8CD272D6-E1FF-4EE8-A542-6300CF86A239-
+
+CCpResource CustomNavigationBar/Default@2x.png build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png
+s381319047.276459
+e381319047.280826
+r1
+xCpResource
+xCustomNavigationBar/Default@2x.png
+xbuild/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png4fe7468777bab641^cde4478777bab641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png000000000080d041^608"CpResource "CustomNavigationBar/Default@2x.png" "build/Debug-iphonesimulator/CustomNavigationBar.app/Default@2x.png"    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/iPhoneApps/CustomNavigationBar/CustomNavigationBar/Default@2x.png" /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app36"ECC5AF8C-FB77-4324-88F3-84696C8FE6E7-
+
+CGenerateDSYMFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar
+s381319046.909792
+e381319047.226762
+r1
+xGenerateDSYMFile
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generating /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM87fbe88677bab641^450d3a8777bab641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM000000000080d041^664"GenerateDSYMFile build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar -o /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app.dSYM36"2E6E20FC-F78A-4776-B36E-FAA3129C797B-
+
+CLd /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar normal i386
+s381319045.448014
+e381319046.902669
+r1
+xLd
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBara8c7728577bab641^6e16e78677bab641^---0#0#0#--1180"Ld build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar normal i386    cd /iPhoneApps/CustomNavigationBar    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator -filelist /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/Objects-normal/i386/CustomNavigationBar.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/CustomNavigationBar36"0555B368-941C-403B-8D0B-21D37C59D9FB-
+
+CProcessInfoPlistFile /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist CustomNavigationBar/CustomNavigationBar-Info.plist
+s381319037.231326
+e381319037.261559
+r1
+xProcessInfoPlistFile
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist
+xCustomNavigationBar/CustomNavigationBar-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process CustomNavigationBar/CustomNavigationBar-Info.plist384d3b7d77bab641^a931497d77bab641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/CustomNavigationBar-Info.plist0000000000000000^705"ProcessInfoPlistFile build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist CustomNavigationBar/CustomNavigationBar-Info.plist    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomNavigationBar/CustomNavigationBar-Info.plist -genpkginfo /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app/Info.plist36"65AC5DA1-41BC-4DBD-B73B-97D00E65EB9A-
+
+CProcessPCH /Users/pavan/Library/Developer/Xcode/DerivedData/CustomNavigationBar-fhxkwchjjgqikkcknxqfvpivlowl/Index/PrecompiledHeaders/CustomNavigationBar-Prefix-axfxxwkxhdybyvcuobahunvilkyi_ast/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/pavan/Library/Developer/Xcode/DerivedData/CustomNavigationBar-fhxkwchjjgqikkcknxqfvpivlowl/Index/PrecompiledHeaders/CustomNavigationBar-Prefix-dqbjfraqgvzplzdwohswmwvestnr_ast/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-fzrvqjmolnlctoagovsmppnufquj/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s381319037.278758
+e381319045.169651
+r1
+xProcessPCH
+x/var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth
+xCustomNavigationBar/CustomNavigationBar-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile CustomNavigationBar/CustomNavigationBar-Prefix.pch287f477d77bab641^616e2b8577bab641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/iPhoneApps/CustomNavigationBar/CustomNavigationBar/CustomNavigationBar-Prefix.pch0000000000000000^3775"ProcessPCH /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth CustomNavigationBar/CustomNavigationBar-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /iPhoneApps/CustomNavigationBar    setenv LANG en_US.US-ASCII    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-generated-files.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-own-target-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-all-target-headers.hmap -iquote /iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/CustomNavigationBar-project-headers.hmap -I/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/software/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources/i386 -I/iPhoneApps/CustomNavigationBar/build/CustomNavigationBar.build/Debug-iphonesimulator/CustomNavigationBar.build/DerivedSources -F/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.dia -c /iPhoneApps/CustomNavigationBar/CustomNavigationBar/CustomNavigationBar-Prefix.pch -o /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/t_/zg68k2jd7n7bssrygk0zhkbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomNavigationBar-Prefix-hbjvbgkjqmpigzeygmloovfvxwga/CustomNavigationBar-Prefix.pch.d36"1E0A4482-45E2-4FA0-A9BD-C1F958C9DE66-
+
+CTouch /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app
+s381319047.434302
+e381319047.536025
+r1
+xTouch
+x/iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app3a416f8777bab641^a839898777bab641^---0#0#0#--390"Touch build/Debug-iphonesimulator/CustomNavigationBar.app    cd /iPhoneApps/CustomNavigationBar    setenv PATH "/software/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/software/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPhoneApps/CustomNavigationBar/build/Debug-iphonesimulator/CustomNavigationBar.app36"E3E2A26B-680B-47C9-AE26-297089698C9C-
+
